@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Recommendish</string>
+    <string name="welcome_title">Bienvenido a "Recommendish", la app para elegir un platillo para comer</string>
+    <string name="recommend_button">Recomendar</string>
+    <string name="shuffle_button">Aleatorio</string>
+    <string name="favorite_button">Favoritos</string>
+    <string name="time_title">Elige cuanto tiempo dispones para cocinar</string>
+    <string name="ingr_title">Elige los ingredientes para utilizar</string>
+    <string name="add_fav">Agregar a Favoritos</string>
+    <string name="favorites">Tus platillos favoritos</string>
+    <string name="recommended">Tus platillos recomendados</string>
+
+    <string-array name="time_values">
+        <item>0.5 hrs</item>
+        <item>1 hrs</item>
+        <item>1.5 hrs</item>
+        <item>2 hrs</item>
+        <item>2.5 hrs</item>
+        <item>3 hrs</item>
+    </string-array>
+
+    <string-array name="ing_values">
+        <item>Carne</item>
+        <item>Pollo</item>
+        <item>Mariscos</item>
+    </string-array>
+</resources>
